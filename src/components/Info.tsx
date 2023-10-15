@@ -76,8 +76,9 @@ const Info = () => {
                     </button>
                 </div>
             </div>
-        </div>
-        <div className="flex item-center gap-9">
+        </div>  
+      </div>
+     <div className="flex item-center gap-10 justify-center mt-3">
             <div className="flex items-center gap-[10px]">
                 <div className="text-primary">
                     <AiFillCheckCircle/>
@@ -95,8 +96,6 @@ const Info = () => {
                 </span>
             </div>
         </div>
-      </div>
-     
     </section>
   )
 }
